@@ -1,6 +1,6 @@
 This is the Version 1.9 Screen Capture and Compiler / Dumper software which I wrote for Software Testing to grab all GUI screen Shots.
 
-It needs to be compiled in AutoIT Script program and unforutnately as of now it is a Windows based exe program, and relies on MS Word to perform the compilation of images.
+It needs to be compiled in AutoIT Script program https://www.autoitscript.com/site/autoit/downloads/ and unfortunately as of now it is a Windows based exe program, and relies on MS Word to perform the compilation of images.
 
 Future development will hopefully make it more OS independent and not utilizing MS word as the compilation (probably Adobe PDF else html) and time stamping of images.
 
